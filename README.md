@@ -38,7 +38,5 @@ Algorithm: Logistic Regression
 * Efficient for medical datasets
 
 # ✅ Results
-
-High accuracy achieved on both training and testing datasets
-
-Model shows strong performance in distinguishing between malignant and benign tumors
+* High accuracy (90% +) achieved on both training and testing datasets
+* Model shows strong performance in distinguishing between malignant and benign tumors
